@@ -1,2 +1,8 @@
 *.class
+
+#Hello-World program in Scala
+println ("hello world")
+
+var x = "hello world"
+println(x)
 *.log
